@@ -1,2 +1,4 @@
-# SBRP
-Sugar Binding Residue Predictor by BILAB
+SBR_predictor
+=============
+
+Sugar Binding Residue Predictor
