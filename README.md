@@ -22,6 +22,7 @@ If you download above programs, you can run SBRP like below command.
 
 The output example is below.
 
+
 ---
 148L:E|PDBID|CHAIN|SEQUENCE 8 -1.67762885786 1.70627963313 False False  
 148L:E|PDBID|CHAIN|SEQUENCE 9 -0.49179158867 1.40920844499 False False  
@@ -32,6 +33,7 @@ The output example is below.
 148L:E|PDBID|CHAIN|SEQUENCE 14 -1.51129664951 1.21914159325 False False  
 148L:E|PDBID|CHAIN|SEQUENCE 15 -0.426752423351 0.890993747856 False False  
 ---
+
 
 - Column 1 is predicted protein name, this name is equal to header record in FASTA file.
 - Column 2 is predicted residue position.
